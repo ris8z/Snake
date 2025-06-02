@@ -2,6 +2,7 @@
 
 This is a simple **Snake game implemented in C**, playable directly from your terminal. It uses basic C structures, ANSI escape codes for colors, and grid logic to simulate a real-time game loop — all without any external libraries.
 
+[Demo](https://www.ris8z.com/projects/simple-snake-game/)
 ---
 
 ##  How to Play
